@@ -1,25 +1,24 @@
 # Base configs
-baseurl: "http://photography.ramswaroop.me"
+baseurl: "http://food.seonology.com"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-2"
+google_analytics: 
 
 # UI configs
-title: "Photography by Ram Patra"
-subtitle: "See the world through my eyes!"
-author: "Ram Patra"
+title: "Photography by SEON"
+subtitle: "I will only upload pictures of my food!"
+author: "SEON NOH"
 header:
  title: "Photography"
- subtitle: "by Ram Patra"
+ subtitle: "by SEON"
 footer:
- name: "Hey there, my name is Ram"
- bio: "I am a developer and a tech aficionado from India. Love making teeny tiny apps solving tiny problems in life and now learning photography."
- github: "Want a website like this for yourself for free? Just <a href=\"https://github.com/ramswaroop/photography\">fork me on github</a> ;)"
+ name: "Hello, i am SEON"
+ bio: "I am a program engineer born in Korea.<br>
+I live in Japan now.<br>
+This site is just a site where I post pictures of my favorite foods. <br>
+If you want to hear more stories, come <a href=\"https://github.com/ramswaroop/photography\">here</a> even though it is written in Korean."
 web_design: "AJ"
 social_urls:
-  facebook: "https://www.facebook.com/ramswaroop"
-  twitter: "https://www.twitter.com/ramswarooppatra"
-  instagram: "https://www.instagram.com/ramswarooppatra"
-  dribbble: "https://dribbble.com/ramswaroop"
-  linkedin: "https://in.linkedin.com/in/ramswarooppatra"
-  github: "https://www.github.com/ramswaroop"
+  facebook: "https://www.facebook.com/seon.noh.79"
+  linkedin: "https://kr.linkedin.com/in/seontaek-noh-646b1054"
+  github: "https://www.github.com/seonnoh"

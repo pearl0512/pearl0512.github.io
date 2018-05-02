@@ -2,7 +2,7 @@
 baseurl: "http://food.seonology.com"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: 
+google_analytics: "UA-118569125-1"
 
 # UI configs
 title: "Photography by SEON"
